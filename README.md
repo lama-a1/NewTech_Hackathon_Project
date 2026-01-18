@@ -1,5 +1,5 @@
-# NewTech Hackathon Project 
-"Early Warning System for Sepsis Detection"
+# Early Warning System for Sepsis Detection 
+"NewTech Hackathon Project"
 
 ## Project Description
 An AI-driven early warning system for sepsis detection that analyzes clinical time-series data to learn personalized patient baselines and identify abnormal physiological changes that may indicate early deterioration.
